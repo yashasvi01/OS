@@ -1,1 +1,1 @@
-# OS
+operating system practicals
